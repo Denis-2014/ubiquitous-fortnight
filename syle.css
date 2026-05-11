@@ -1,0 +1,54 @@
+body{
+    Background-color: #b02098;
+}
+
+.gallery img:hover {
+    opacity: 1;
+    border: 6px solid navy;
+    width: 290x;
+    height: 403x;
+    padding: 5px;
+    transition: 0.6s ease-out;
+}
+
+.one{
+    Background-color: #6231c6;
+    Text-align: center;
+    Font-size: 40px;
+    color: #66041e;
+}
+
+h3{
+    Text-align: center;
+}
+
+.two{
+    Background-color: #12993b;
+    Text-align: center;
+    Font-size: 40px;
+    color: #04ede6fb;
+}
+
+.Three {
+    Background-color: #941d2d;
+    Font-size: 28px;
+    color: #7694c6;
+}
+
+.Four {
+    Background-color: #129109;
+    Text-align: center;
+    Font-size: 48px;
+    color: #e096f8;
+}
+
+.Five {
+Background-color: #a6660d;
+Font-size: 28px;
+color: #74bec2;
+}
+
+a{
+    Font-size: 29px;
+    color: #d6dd95;
+}
